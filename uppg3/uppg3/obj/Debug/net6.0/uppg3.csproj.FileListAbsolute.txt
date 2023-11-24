@@ -1,0 +1,14 @@
+C:\Users\arun06001\source\repos\uppg3\uppg3\obj\Debug\net6.0\uppg3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arun06001\source\repos\uppg3\uppg3\obj\Debug\net6.0\uppg3.AssemblyInfoInputs.cache
+C:\Users\arun06001\source\repos\uppg3\uppg3\obj\Debug\net6.0\uppg3.AssemblyInfo.cs
+C:\Users\arun06001\source\repos\uppg3\uppg3\obj\Debug\net6.0\uppg3.csproj.CoreCompileInputs.cache
+C:\Users\arun06001\source\repos\uppg3\uppg3\bin\Debug\net6.0\uppg3.exe
+C:\Users\arun06001\source\repos\uppg3\uppg3\bin\Debug\net6.0\uppg3.deps.json
+C:\Users\arun06001\source\repos\uppg3\uppg3\bin\Debug\net6.0\uppg3.runtimeconfig.json
+C:\Users\arun06001\source\repos\uppg3\uppg3\bin\Debug\net6.0\uppg3.dll
+C:\Users\arun06001\source\repos\uppg3\uppg3\bin\Debug\net6.0\uppg3.pdb
+C:\Users\arun06001\source\repos\uppg3\uppg3\obj\Debug\net6.0\uppg3.dll
+C:\Users\arun06001\source\repos\uppg3\uppg3\obj\Debug\net6.0\refint\uppg3.dll
+C:\Users\arun06001\source\repos\uppg3\uppg3\obj\Debug\net6.0\uppg3.pdb
+C:\Users\arun06001\source\repos\uppg3\uppg3\obj\Debug\net6.0\uppg3.genruntimeconfig.cache
+C:\Users\arun06001\source\repos\uppg3\uppg3\obj\Debug\net6.0\ref\uppg3.dll
